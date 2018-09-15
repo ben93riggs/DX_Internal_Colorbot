@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+c:\users\ben93\documents\github\dxdestroyer\dxdestroyer\dllmain.cpp(6): fatal error C1189: #error:  THIS PROJECT DOES NOT SUPPORT x86 USE.
+  CLog.cpp
+c:\users\ben93\documents\github\dxdestroyer\dxdestroyer\clog.h(15): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(506): note: see declaration of 'localtime'
+  Generating Code...

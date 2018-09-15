@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+  CLog.cpp
+  IAT.cpp
+  Settings.cpp
+  Utils.cpp
+c:\users\ben93\documents\github\dxdestroyer\dxdestroyer\utils.cpp(70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ben93\documents\github\dxdestroyer\dxdestroyer\utils.cpp(77): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  VMT.cpp
+  Generating code
+  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DXDestroyer.vcxproj -> C:\Users\ben93\Documents\GitHub\DXDestroyer\x64\Release\DXDestroyer.dll

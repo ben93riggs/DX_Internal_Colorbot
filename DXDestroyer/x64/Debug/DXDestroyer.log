@@ -1,0 +1,12 @@
+﻿  D3D.cpp
+c:\users\ben93\documents\github\dxdestroyer\dxdestroyer\d3d.cpp(214): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+  dllmain.cpp
+  CLog.cpp
+  IAT.cpp
+  RID.cpp
+  Settings.cpp
+  Utils.cpp
+c:\users\ben93\documents\github\dxdestroyer\dxdestroyer\utils.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  VMT.cpp
+  Generating Code...
+  DXDestroyer.vcxproj -> C:\Users\ben93\Documents\GitHub\DXDestroyer\x64\Debug\DXDestroyer.dll
