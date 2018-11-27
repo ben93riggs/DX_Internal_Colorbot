@@ -73,7 +73,7 @@ namespace D3D
 		swapDesc.BufferDesc.Width = 2;
 		swapDesc.BufferDesc.Height = 2;
 		swapDesc.BufferUsage = DXGI_USAGE_RENDER_TARGET_OUTPUT;
-		swapDesc.OutputWindow = FindWindowA(NULL, "Overwatch");
+		swapDesc.OutputWindow = FindWindowA(NULL, "ProcessWindowNameHere");
 		swapDesc.SampleDesc.Count = 1;
 		swapDesc.Windowed = TRUE;
 		IDXGISwapChain* TempSwap;
